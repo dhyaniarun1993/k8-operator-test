@@ -1,0 +1,3 @@
+domain: example.com
+repo: k8-operator-test
+version: "2"
